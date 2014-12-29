@@ -1,0 +1,1 @@
+{"description":"Codenvy CLI utility example.","builders":{"default":"maven"},"runners":{"configs":{"recommend":{"options":{},"ram":256,"variables":{}}},"default":"system:/java/codenvy-cli"},"type":"maven","attributes":{"language":["java"]}}
